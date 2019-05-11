@@ -1,0 +1,4 @@
+package ±  ‘.«Ô’–;
+
+public class ∂—∂— {
+}

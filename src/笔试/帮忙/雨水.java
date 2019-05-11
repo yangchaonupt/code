@@ -1,0 +1,37 @@
+package 笔试.帮忙;
+import java.util.*;
+public class 雨水 {
+    public static void main(String[] args) {
+        int [] arr ={12,0,2,0,3,1,2,0,2,1,4,2,1};
+        System.out.println(trap(arr,arr.length));
+    }
+
+
+      public static   int trap(int heights[], int n) {
+        int maxhigh=0;
+        int left=0,right=0;
+        for(int i=0;i<n;i++)//找到最大值的下标
+        {
+            if(heights[i]>heights[maxhigh])
+                maxhigh=i;
+        }
+        int sum=0;
+        for(int i=0;i<maxhigh;i++)//计算左边的容量
+        {
+            if(heights[i]<left)
+                sum+=(left-heights[i]);
+            else
+                left=heights[i];
+        }
+
+        for(int j=n-1;j>maxhigh;j--)//计算右边的容量
+        {
+            if(heights[j]<right)
+                sum+=(right-heights[j]);
+            else
+                right=heights[j];
+        }
+        return sum;
+    }
+
+}
