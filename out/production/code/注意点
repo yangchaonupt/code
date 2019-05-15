@@ -1,0 +1,57 @@
+1、大数相关：
+（1）直接所有值，全部开成long，尽量不要int。一开始的输入就有可能会爆，记得用long，sc.nextLong()。
+（2）关于结果和中间的变量，太大的记得用long。
+int是2的32次方，int值是-2147483648到2147483648，，20亿，有的会爆。
+long是2的63次方，long的取值范围为（-9223372036854774808~9223372036854774807） 10的18次方
+（3）数字太大要用到放到字符串，转化成字符，在压进去栈
+（4）大数操作，用BigInteger
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+BigInteger bi = new BigInteger(n + "");
+BigInteger multiply = bi.multiply(bi2);
++:add;-subtract;*multiply;/divide;比较compareTo返回-1,0,1
+（5）大数的比较，可以取lon，方法为Math.log(),不会爆。
+例如x的y次方和y的x次方比较，先看是否相等，再转化为y*Math.log(x)-x*Math.log(y)和0关系的比较。还涉及的是double的比较，用减法
+2、输入输出：
+（1）输入包括多组测试数据。注意 用while (sc.hasNext())
+（2）输入有时候需要按照空格切分在操作
+Scanner input = new Scanner(System.in);
+String s = input.nextLine();
+String[] split = s.split(" ");
+(3)输入就是long
+long [] a
+a[i]=sc.nextLong();
+(4)注意数字是从0，还是1开始
+(5)可以拆分字符串，取数，int m=Integer.parseInt(t.split(" ")[0]) ;
+3、小tips：
+(1)看清题意最重要，理解之后可能代码很短，先细想再实现。注意题中提供的信息和参数范围
+(2)注意数组的下标。
+(3)注意看，如果说是非负整数，要考虑0的情况，不能除以0；
+(4)用静态的字符串的下标来比较字符串的大小，可以根据指定规则构建。static String base="345678910JQKA2jokerJOKER";
+(5)字符串的public String substring?(int beginIndex,int endIndex)  范围是[beginIndex，endIndex) 包左不包右
+(6)n&(n-1) 将n的最低位的1置为0,
+可以用来计算1的个数  while(n > 0)  {  count++;  n&=(n-1);  }
+判断是否是2的次幂 n > 0 && ((n & (n - 1)) == 0 )
+4、公式
+等比数列求和公式：
+Sn=n*a1                                                      (q=1);
+Sn=a1*(1-Math.pow(double q,double n))/(1-q)=(a1-an*q)/(1-q)  (q!=1)
+公式描述：公式中a1为首项，an为数列第n项，q为等比数列公比，Sn为前n项和。
+等差数列求和公式:
+Sn=n*a1+(n)*(n-1)*d/2       (d,n属于整数)
+公式描述：公式中首项为a1，末项为an，项数为n，公差为d，前n项和为Sn。
+
+5、记得没事百度下题目试试，可能是原题。
+
+6
+宽度优先遍历
+1，利用队列实现
+2，从源节点开始依次按照宽度进队列，然后弹出
+3，每弹出一个点，把该节点所有没有进过队列的邻接点放入队
+列
+4，直到队列变空
+广度优先遍历
+1，利用栈实现
+2，从源节点开始把节点按照深度放入栈，然后弹出
+3，每弹出一个点，把该节点下一个没有进过栈的邻接点放入栈
+4，直到栈变空
