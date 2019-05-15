@@ -7,266 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c62a95ff-5fcf-430e-b03a-8a9057cce46d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/对数器/数组对数器.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/对数器/树对数器$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/对数器/树对数器.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/对数器/链表对数器$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/对数器/链表对数器.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/快速求矩阵子矩阵和_生成和记录.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/打印二叉树$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/打印二叉树.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/打表求组合.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/根据数组生成二叉树$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/根据数组生成二叉树.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/比较器$AgeAscendingComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/比较器$AgeDescendingComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/比较器$IdAscendingComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/比较器$IdDescendingComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/比较器$Student.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/比较器.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/求排列组合.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/工具/素数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/暂时.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/测试.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/图/迷宫寻路$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/图/迷宫寻路.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/堆/做项目能取得的最大收益$MaxProfitComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/堆/做项目能取得的最大收益$MinCostComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/堆/做项目能取得的最大收益$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/堆/做项目能取得的最大收益.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/堆/盗贼分金$MaxheapComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/堆/盗贼分金$MinheapComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/堆/盗贼分金.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/堆/随时找到数据流的中位数$MaxHeapComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/堆/随时找到数据流的中位数$MedianHolder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/堆/随时找到数据流的中位数$MinHeapComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/堆/随时找到数据流的中位数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/KMP算法.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/Manacher算法.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/一手扑克牌比大小.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/不用API大数相乘.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/前缀树结构$Trie.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/前缀树结构$TrieNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/前缀树结构.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/加一个字母为回文串.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/回文数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/字符串交错组成.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/字符串重排.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/字符流中第一个不重复的字符$Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/字符流中第一个不重复的字符.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/寻找Coder_比较器的使用$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/寻找Coder_比较器的使用.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/是否为变形词.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/是否为旋转词.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/最小字典序$MyComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/最小字典序.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/最长01数量相等子串.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/正则表达式匹配.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/第一个只出现一次的字符.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/简单错误记录$Record.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/简单错误记录.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/字符串/翻转单词顺序.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数字/二进制.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数字/分解整数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数字/小东分苹果.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数字/抛小球.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数字/数据流中的中位数$Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数字/数据流中的中位数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数字/约瑟夫问题1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数字/约瑟夫问题2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数字/蓄水池抽样.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数字/长整数相乘.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数字/随机5到随机7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/两个不相交子数组最大和.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/右下角$MyComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/右下角$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/右下角.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/多数组K大数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/小和.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/左右最值差值最大绝对值.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/最值差小于num的所有子数组.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/最大子数组和.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/最大子矩阵和.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/最大差值.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/最高分是多少.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/棋子翻转.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/矩阵_之字形打印_斜之字.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/矩阵_之字形打印_返回数组形式.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/矩阵_旋转打印_返回数组形式.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/矩阵_转圈打印.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/矩阵元素相乘.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/矩阵顺时针旋转90度.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/股票买卖的最佳时机1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/股票买卖的最佳时机2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/股票买卖的最佳时机3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/股票买卖的最佳时机4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/能否构成正方形.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/数组矩阵/雨水问题.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/并查集_Tarjan和不相交集合对最近公共祖先$DisjointSets.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/并查集_Tarjan和不相交集合对最近公共祖先$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/并查集_Tarjan和不相交集合对最近公共祖先$Query.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/并查集_Tarjan和不相交集合对最近公共祖先$Tarjan.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/并查集_Tarjan和不相交集合对最近公共祖先.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/并查集_岛.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/并查集结构$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/并查集结构$UnionFindSet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/并查集结构.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/类比较器的使用_小熊吃糖$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/类比较器的使用_小熊吃糖$bear.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/类比较器的使用_小熊吃糖.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/杂/递归打印菱形.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/topK.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/两个数组的上中位数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/两个数组第K小的数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/二分法的递归非递归对比.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/冒泡排序.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/基数排序.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/基数排序2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/堆排序.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/归并排序.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/快速排序_挖坑填数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/快速排序_荷兰国旗法.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/插入排序.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/最小K个数1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/最小K个数2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/递归二分查找.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/非递归二分查找.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/魔术索引1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/查找排序/魔术索引2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/栈和队列/加强版括号匹配.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/栈和队列/单调栈_最大的矩形区域为1的数量.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/栈和队列/单调栈_直方图内最大矩形.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/栈和队列/合法括号序列判断.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/栈和队列/最大值减去最小值小于等于num的子数组数量.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/栈和队列/滑动窗口最大值.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/贪心/项目的最好安排$Program.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/贪心/项目的最好安排$ProgramComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/贪心/项目的最好安排.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/N皇后问题.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/堆箱子$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/堆箱子$Boxs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/堆箱子.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/字符串的交错组成.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/小孩走楼梯.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/年终奖$Bonus.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/年终奖.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/打印一个字符串的全排列.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/打印字符串的所有子串.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/拜访.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/换钱的方法数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/换钱的最少货币数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/排成一条线的纸牌博弈问题.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/数字字符串转化为字母组合的种数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/数组中的最长连续序列.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/斐波那契数列.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/最小编辑代价.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/最长公共子串问题.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/最长公共子序列.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/最长递增子序列.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/机器人走方格.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/机器人走方格2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/机器人走路.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/正则表达式匹配.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/汉诺塔问题.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/洪水$point.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/洪水.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/矩阵的最小路径和.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/硬币表示.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/表达式得到期望结果的组成种数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/跳跃游戏.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/邮局选址.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/集合的子集.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/笔试为主/递归和动态规划/龙与地下城游戏.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/位运算/二进制小数.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/位运算/二进制插入.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/占.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/栈队列/递归实现栈中元素逆序.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/Morris遍历$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/Morris遍历.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/二叉树中和为某一值的路径$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/二叉树中和为某一值的路径.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/二叉树的遍历$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/二叉树的遍历.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/判断二叉树是否为平衡二叉树$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/判断二叉树是否为平衡二叉树.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/判断二叉树是否为搜索二叉树和完全二叉树$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/判断二叉树是否为搜索二叉树和完全二叉树.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/完全二叉树的节点数量.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/寻找下一个节点$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/寻找下一个节点.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/最近公共祖先_简化.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/树中最大的二叉搜索树拓扑$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/树中最大的二叉搜索树拓扑$Record.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/树中最大的二叉搜索树拓扑.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/检查是否为BST$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/检查是否为BST.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/检查是否为BST2$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/检查是否为BST2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/输出单层节点$ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/输出单层节点$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/树/输出单层节点.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/链表/复杂链表复制$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/链表/复杂链表复制.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/链表/链表相交问题$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/代码库/面试为主/链表/链表相交问题.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/模板.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/CVTE/汇总.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/合并.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/好未来/aq.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/好未来/最长递增子数组.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/好未来/细胞.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/好未来/递增.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/宜信/TestClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/宜信/坏2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/宜信/坏账.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/帮忙/平板支撑.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/帮忙/数字.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/帮忙/线程$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/帮忙/线程$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/帮忙/线程.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/帮忙/雨水.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/拼多多/AB字符串.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/拼多多/字符串的值.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/拼多多/比较版本号.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/拼多多/逆波兰.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/拼多多/高楼加层.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/数组和为定值.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/测试.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/牛客网/三角形.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/牛客网/六一儿童节.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/牛客网/最大乘积2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/PAT.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/京东/完全2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/京东/完全多部图.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/京东/对比.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/删除.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/占位.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/堆堆.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/拼多多/列表补全.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/拼多多/城市道路.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/拼多多/复制可乐.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/拼多多/复制可乐2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/拼多多/数三角形.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/拼多多/最大乘积.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/拼多多/票选球王.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/拼多多/运输货物.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/拼多多/选号码.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/猴子$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/猴子$monkey.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/猴子.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/美团/区间统计.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/美团/图的遍历$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/美团/图的遍历$countComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/美团/图的遍历$startComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/美团/图的遍历.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/远景能源/原串翻转.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/远景能源/最大间隔.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/阿里/拆分数组.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/秋招/阿里/点是否在多边形内.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/练习.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/笔试/贝壳/进制.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/code/注意点" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -2003,7 +1744,7 @@
       <workItem from="1539599853861" duration="3958000" />
       <workItem from="1541673693748" duration="11196000" />
       <workItem from="1557570827254" duration="1487000" />
-      <workItem from="1557573186227" duration="750000" />
+      <workItem from="1557573186227" duration="950000" />
     </task>
     <task id="LOCAL-00001" summary="之前笔试，代码练习相关代码">
       <created>1557572909194</created>
@@ -2012,11 +1753,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557572909194</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="上传代码">
+      <created>1557924483335</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557924483335</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="385423000" />
+    <option name="totallyTimeSpent" value="385623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -2031,10 +1779,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42156863" sideWeight="0.49511003" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2061,7 +1809,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="之前笔试，代码练习相关代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="之前笔试，代码练习相关代码" />
+    <MESSAGE value="上传代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
